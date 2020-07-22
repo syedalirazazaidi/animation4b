@@ -32,7 +32,7 @@ const Header = () => {
           <Link to="#">Blog</Link>
           <Link to="#">Service</Link>
           <Link to="#" className="btn">
-            Get Started &#8594
+            Get Started &#8594;
           </Link>
         </div>
       </nav>
